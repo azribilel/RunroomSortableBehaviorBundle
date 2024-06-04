@@ -17,7 +17,7 @@
     ],
     "homepage": "https://github.com/runroom/RunroomSortableBehaviorBundle",
     "require": {
-        "php": "^8.1",
+        "php": ">=8.1",
         "doctrine/doctrine-bundle": "^2.8",
         "doctrine/orm": "^2.14",
         "symfony/config": "^5.4 || ^6.2",
